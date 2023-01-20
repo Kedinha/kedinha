@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 -->
 <div>
   <a href="https://github.com/Kedinha/kedinha/">
-    <img src="https://github-readme-stats.vercel.app/api?username=kedinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kedinha&show_icons=true&theme=dracula" />
     
-    
+  </a> 
    
 </div>
