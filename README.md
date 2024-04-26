@@ -1,18 +1,18 @@
 ### Hi there 👋
 
+I’m
+**Kedinha/kedinha** is a ✨ _special_ ✨ repository.
 
-**Kedinha/kedinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning Angular
-- ⚡ Fun fact: Tech
+- 🌱 I’m currently learning Java
+- ⚡ Fun fact: New Techs
 
 <div>
   <a href="https://github.com/Kedinha/kedinha/">
-    <img src="https://github-readme-stats.vercel.app/api?username=kedinha&show_icons=true&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kedinha&show_icons=true&theme=jolly" />
+    <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kedinha&show_icons=true&theme=jolly&layout=compact"/>
     
-  </a> 
-   
+  </a>    
 </div>
+
