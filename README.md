@@ -5,8 +5,8 @@ I’m
 
 
 - 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning Java
-- ⚡ Fun fact: New Techs
+- 🌱 I’m currently learning Java and New Techs
+- ⚡ Fun fact: “Therefore, machines do not think.” Alan Turing
 
 <div>
   <a href="https://github.com/Kedinha/kedinha/">
